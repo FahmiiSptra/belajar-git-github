@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
 }
 
 body{
@@ -13,6 +16,26 @@ body{
     justify-content: center;
     align-items: center;
     padding: 1rem;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+nav{
+    display: flex;
+}
+
+nav a{
+font-size: 1.3rem;
+margin: 0 1rem;
+color: #f4f4f4;
+text-transform: capitalize;
+font-family: sans-serif;
 }
 
 div{
