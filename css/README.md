@@ -1,6 +1,7 @@
 # hallo-tutorial-git
 
-Hari ini saya sedang belajar git dan github, mohon bantuannya. terimakasih
+Hallo Dunia, Saat ini saya sedang belajar remote
+bismillah doakan saya yang terbaik.
 
 dan saat ini saya sedang belajar remote
 
